@@ -58,6 +58,7 @@ bun run build
 
 ---
 
+**Credits to: https://github.com/AshirbadGudu/bun-react-app**
 
 # React + Vite
 
